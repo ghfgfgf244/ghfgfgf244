@@ -2,8 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65f8c3a7-6e8c-4c6f-bd08-6182a0b8214c"
-       width="300"
-       height="300"
+       width="250"
+       height="250"
        alt="Mô tả GIF của bạn" />
 </p>
 
